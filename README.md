@@ -84,7 +84,6 @@ This app provides **non-clinical insights** and is not a substitute for professi
 
 ### 📥 **Get Started**
 1. Clone this repository.
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the app: `streamlit run app.py`
+3. Run the app: `streamlit run Home.py`
 
 ---
